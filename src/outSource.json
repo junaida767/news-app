@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "handelsblatt", "name": "Handelsblatt" },
+      "author": "Judith Henke",
+      "title": "Reselling: Sind Sneaker eine gute Geldanlage?",
+      "description": "Mit dem Verkauf von Sportschuhen machen professionelle Anleger oft hohe Gewinne. Doch Experten mahnen zur Vorsicht. Was zu beachten ist.",
+      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/reselling-sind-sneaker-eine-gute-geldanlage/29293104.html",
+      "urlToImage": "https://www.handelsblatt.com/images/teures-sammlerobjekt/29294926/3-format2003.jpg",
+      "publishedAt": "2023-08-18T10:41:41+00:00",
+      "content": "Teures SammlerobjektSneaker als Investment sind bei Profis gefragt. 30.000 Euro kostet dieser Sample-Schuh von Adidas, der sich im Besitz von Vaditim-Gründer Stepan Timoshin befindet. \r\nFrankfurt Für… [+9520 chars]"
+    },
+    {
+      "source": { "id": "les-echos", "name": "Les Echos" },
+      "author": "Florian Dèbes",
+      "title": "Supraconducteur: un emballement estival qui fait des dégâts en Bourse",
+      "description": "Une étude sud-coréenne croyait avoir découvert un matériau ouvrant la voie à des révolutions dans l'énergie, les transports et l'informatique. Mais les doutes d'autres scientifiques ont tué dans l'oeuf l'emballement naissant.",
+      "url": "https://www.lesechos.fr/tech-medias/hightech/supraconducteur-un-emballement-estival-qui-fait-des-degats-en-bourse-1970878",
+      "urlToImage": "https://media.lesechos.com/api/v1/images/view/64df3abca8a4d1580079e9d9/1280x720/0901483610467-web-tete.jpg",
+      "publishedAt": "2023-08-18T09:32:38Z",
+      "content": "Toutes les ruées vers l'or ne se valent pas. A la recherche cet été d'un « next big thing » peut-être encore plus important que l'intelligence artificielle ou la transition énergétique, certains inve… [+628 chars]"
+    },
+    {
+      "source": { "id": "nhl-news", "name": "NHL News" },
+      "author": "Jon Lane",
+      "title": "NHL 24 'everything I love about hockey', Makar says",
+      "description": "Cale Makar is not just the cover athlete for EASPORTS NHL 24, he's also a fan.",
+      "url": "https://www.nhl.com/news/cale-makar-on-the-cover-of-ea-sports-nhl-24/c-345604584",
+      "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/345603902/1024x576/cut.jpg",
+      "publishedAt": "2023-08-16T15:00:00Z",
+      "content": "Cale Makar is not just the cover athlete for EASPORTS NHL 24, he's also a fan.\"NHL 24 represents everything I love about hockey,\" the Colorado Avalanche defenseman said. \"It is fast-paced, physical a… [+3168 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": " Rooks x Pulisic Interview ️",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/457604-rooks-x-pulisic-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-08-01T17:52:19.0557986Z",
+      "content": "Copyright © 2023 Bleacher Report, Inc. Turner Broadcasting System, Inc.\r\n All Rights Reserved.\r\n BleacherReport.com is part of Bleacher Report Turner Sports Network, part of the Turner Sports and Ent… [+200 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "Cedric Mullins Interview ⚾️",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/457122-betts-x-mullins-full-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-08-01T17:52:17.8373521Z",
+      "content": "Copyright © 2023 Bleacher Report, Inc. Turner Broadcasting System, Inc.\r\n All Rights Reserved.\r\n BleacherReport.com is part of Bleacher Report Turner Sports Network, part of the Turner Sports and Ent… [+200 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "Daily Briefing",
+      "description": "The day's top stories, from sports to movies to politics to world events.",
+      "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+      "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+      "publishedAt": "2021-08-15T15:35:07+00:00",
+      "content": "The day's top stories, from sports to movies to politics to world events."
+    }
+  ]
+}
